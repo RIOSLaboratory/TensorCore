@@ -1,4 +1,4 @@
-# TensorCore
+# OpenTensorCore
 Tensor computing core
 
 ## Spec
